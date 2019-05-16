@@ -1,17 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Aaron's Beauty Google Trends
 
-You can use the [editor on GitHub](https://github.com/aaronschenck/Beauty-Insights/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Google Trends Embed Test
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Collagen","geo":"US-MO","time":"today 12-m"},{"keyword":"/m/01tj2","geo":"US-MO","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"date=today%2012-m,today%2012-m&geo=US-MO,US-MO&q=Collagen,%2Fm%2F01tj2","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 # Aaron Header 1
 ## Aaron Header 2
-### Aaron Header 3
+### Page Design Notes
 
-```markdown
+```Page Design Notes
 Syntax highlighted code block
 
 # Header 1
