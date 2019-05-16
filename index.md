@@ -1,14 +1,10 @@
 ## Welcome to Aaron's Beauty Google Trends
 
-## Google Trends Embed Test
+### Neutrogena
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"neutrogena","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=neutrogena&date=today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
-'Collagen
-### Collagen (Global, Topic)
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/01tj2","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F01tj2&date=today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
-'acne
-### Acne (United States, Search Term)
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"acne","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=acne&date=today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+
 # Aaron Header 1
 ## Aaron Header 2
 ### Page Design Notes
