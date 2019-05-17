@@ -12,6 +12,10 @@
 
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Neutrogena","geo":"US","time":"today 5-y"},{"keyword":"Olay","geo":"US","time":"today 5-y"},{"keyword":"Cetaphil","geo":"US","time":"today 5-y"},{"keyword":"Cerave","geo":"US","time":"today 5-y"},{"keyword":"Aveeno","geo":"US","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=US&q=Neutrogena,Olay,Cetaphil,Cerave,Aveeno","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
+### US Specialty Retailers (US, Search Topic, Past 5 Years)
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/05nn45","geo":"US","time":"today 5-y"},{"keyword":"/m/03p3r21","geo":"US","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=US&q=%2Fm%2F05nn45,%2Fm%2F03p3r21","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+
+
 # Aaron Header 1
 ## Aaron Header 2
 ### Page Design Notes
