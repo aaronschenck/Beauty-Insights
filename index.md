@@ -1,4 +1,4 @@
-## Search Trends | Beauty
+## Search Trends - Beauty
 
 ### Acne (US, Search Term, Past 5 Years)
 
