@@ -1,4 +1,4 @@
-## Google Trends Embed Test
+## Search Trends | Beauty
 
 ### Acne (US, Search Term, Past 5 Years)
 
