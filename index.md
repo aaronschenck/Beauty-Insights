@@ -1,14 +1,13 @@
 ## Search Trends - Beauty
-
-
 ### Acne (US, Search Term, Past 5 Years)
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Acne","geo":"US","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=US&q=Acne","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
-
-
+&nbsp
+&nbsp
+&nbsp
 ### Hyaluronic Acid (US, Search Topic, Past 5 Years)
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/04ldlf","geo":"US","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=US&q=%2Fm%2F04ldlf","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+&nbsp
 ### Key Beauty Brands (US, Search Term, Past 5 Years)
-
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Neutrogena","geo":"US","time":"today 5-y"},{"keyword":"Olay","geo":"US","time":"today 5-y"},{"keyword":"Cetaphil","geo":"US","time":"today 5-y"},{"keyword":"Cerave","geo":"US","time":"today 5-y"},{"keyword":"Aveeno","geo":"US","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=US&q=Neutrogena,Olay,Cetaphil,Cerave,Aveeno","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 
 ### US-Key Beauty Relevant Retailers (US, Search Company & Topic, Past 5 Years)
