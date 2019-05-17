@@ -1,5 +1,5 @@
 ## Search Trends - Beauty
-###### version 3.0
+###### version 4.0
 ### Acne (US, Search Term, Past 5 Years)
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Acne","geo":"US","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=US&q=Acne","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 &nbsp;
@@ -15,11 +15,3 @@
 ### US-Specialty & Social Commerce Retailers (US, Search Company & Topic, Past 5 Years)
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/05nn45","geo":"US","time":"today 5-y"},{"keyword":"/m/03p3r21","geo":"US","time":"today 5-y"},{"keyword":"/g/11b6sf6dxk","geo":"US","time":"today 5-y"},{"keyword":"/m/05d8vj","geo":"US","time":"today 5-y"},{"keyword":"/g/11c2nhntly","geo":"US","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=US&q=%2Fm%2F05nn45,%2Fm%2F03p3r21,%2Fg%2F11b6sf6dxk,%2Fm%2F05d8vj,%2Fg%2F11c2nhntly","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
  
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
-### Blue Label Insights
