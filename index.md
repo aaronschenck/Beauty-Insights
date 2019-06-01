@@ -6,8 +6,12 @@
 ### Hyaluronic Acid (US, Search Topic, Past 5 Years)
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/04ldlf","geo":"US","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=US&q=%2Fm%2F04ldlf","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
 &nbsp;
-### Ingestible Beauty (US, Search Topic+Matcha Tea, Past 5 Years)
-<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/01tj2","geo":"US","time":"today 5-y"},{"keyword":"/m/036jrg","geo":"US","time":"today 5-y"},{"keyword":"/m/04x0gv","geo":"US","time":"today 5-y"},{"keyword":"/m/05nkr","geo":"US","time":"today 5-y"},{"keyword":"/m/06c60c","geo":"US","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=US&q=%2Fm%2F01tj2,%2Fm%2F036jrg,%2Fm%2F04x0gv,%2Fm%2F05nkr,%2Fm%2F06c60c","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+### Ingestible Beauty (US, Search Term & Topic, Past 5 Years)
+  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script>
+  <script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/01tj2","geo":"US","time":"today 5-y"},{"keyword":"/m/036jrg","geo":"US","time":"today 5-y"},{"keyword":"/m/06c60c","geo":"US","time":"today 5-y"},{"keyword":"B12","geo":"US","time":"today 5-y"},{"keyword":"/m/0f4ml","geo":"US","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=US&q=%2Fm%2F01tj2,%2Fm%2F036jrg,%2Fm%2F06c60c,B12,%2Fm%2F0f4ml","guestPath":"https://trends.google.com:443/trends/embed/"});
+  </script>
+
 &nbsp;
 ### Key Beauty Brands (US, Search Term, Past 5 Years)
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1754_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Neutrogena","geo":"US","time":"today 5-y"},{"keyword":"Olay","geo":"US","time":"today 5-y"},{"keyword":"Cetaphil","geo":"US","time":"today 5-y"},{"keyword":"Cerave","geo":"US","time":"today 5-y"},{"keyword":"Aveeno","geo":"US","time":"today 5-y"}],"category":0,"property":""}, {"exploreQuery":"date=today%205-y&geo=US&q=Neutrogena,Olay,Cetaphil,Cerave,Aveeno","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
